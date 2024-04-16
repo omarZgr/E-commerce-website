@@ -1,0 +1,1 @@
+import{b as n}from"./chunk-MEQ5WI7N.js";import{G as i,ca as e,d as r,g as m}from"./chunk-P5H7NKNW.js";var U=(()=>{let o=class o{};o.\u0275fac=function(p){return new(p||o)},o.\u0275mod=m({type:o}),o.\u0275inj=r({imports:[i,n,e]});let t=o;return t})();export{U as AdminModule};
